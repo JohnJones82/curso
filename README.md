@@ -1,0 +1,2 @@
+# curso
+Gerencia curso
